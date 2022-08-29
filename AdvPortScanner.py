@@ -4,7 +4,7 @@
 # --------------------------------------------------------
 
 import platform
-import socket, ftplib, paramiko
+import socket
 
 class colors:
     NORMAL = '\033[0m'
